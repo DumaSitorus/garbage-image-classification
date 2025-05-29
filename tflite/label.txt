@@ -1,0 +1,12 @@
+metal
+white-glass
+biological
+paper
+brown-glass
+battery
+trash
+cardboard
+shoes
+clothes
+plastic
+green-glass
