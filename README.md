@@ -59,20 +59,19 @@ Proyek ini bertujuan untuk menghasilkan model yang dapat melakukan klasifikasi t
 
 
 ## **Struktur Proyek**  
-📁 submission
-├───tfjs_model
-| ├───group1-shard1of1.bin
-| └───model.json
-├───tflite
-| ├───model.tflite
-| └───label.txt
-├───saved_model
-| ├───saved_model.pb
-| └───variables
-├───notebook.ipynb
-├───README.md
-└───requirements.txt
-
+📁 submission</br>
+├───tfjs_model</br>
+| ├───group1-shard1of1.bin</br>
+| └───model.json</br>
+├───tflite</br>
+| ├───model.tflite</br>
+| └───label.txt</br>
+├───saved_model</br>
+| ├───saved_model.pb</br>
+| └───variables</br>
+├───notebook.ipynb</br>
+├───README.md</br>
+└───requirements.txt</br>
 
 
 ---
